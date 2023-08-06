@@ -1,0 +1,9 @@
+2023-08-06 02:24:41.867117 - Initialized conversion of CBT237
+2023-08-06 02:24:41.952514 - Received CBT.V505.FILE237.PDS from FILE237.XMI 
+2023-08-06 02:24:41.954760 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE237.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:24:41.956044 - Found @FILE237.txt (text/plain) in CBT.V505.FILE237.PDS, moved to PDS/@FILE237
+2023-08-06 02:24:41.957280 - Found GETPDSDD.txt (text/plain) in CBT.V505.FILE237.PDS, moved to PDS/GETPDSDD
+2023-08-06 02:24:41.958266 - Found GETPDSDE.txt (text/plain) in CBT.V505.FILE237.PDS, moved to PDS/GETPDSDE
+2023-08-06 02:24:41.959270 - Found JCL.txt (text/plain) in CBT.V505.FILE237.PDS, moved to PDS/JCL
+2023-08-06 02:24:41.959280 - Found OBJECT.bin containing application/octet-stream, moved to PDS/OBJECT
+2023-08-06 02:24:41.961157 - Found PDSCLIST.txt (text/plain) in CBT.V505.FILE237.PDS, moved to PDS/PDSCLIST
